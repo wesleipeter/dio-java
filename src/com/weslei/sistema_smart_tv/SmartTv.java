@@ -1,5 +1,5 @@
 package com.weslei.sistema_smart_tv;
-
+// Exemplo 01
 public class SmartTv {
   public int canal = 1;
   public int volume = 25;
